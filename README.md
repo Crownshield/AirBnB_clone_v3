@@ -12,7 +12,7 @@ application is designed to run with 2 storage engine models:
 
 * File Storage Engine:
 
-  * `/models/engine/file_storage.py`
+  * `/models/engine/file_storage.py`.
 
 * Database Storage Engine:
 
